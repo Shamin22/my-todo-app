@@ -11,7 +11,6 @@ def add_todo():
 
 
 st.title("My Todo App")
-st.subheader("Sharmin gyan")
 st.write("")
 
 # this should iterate:
